@@ -1,4 +1,4 @@
-;Copyright [yyyy] [name of copyright owner] Licensed under the Apache License, Version 2.0 (the «License»);
+;Copyright 2022 KingleyStudio Licensed under the Apache License, Version 2.0 (the «License»);
 
 MsgBox, , CS FAST BUY, CS fast buy macro started`nTo exit press Ctrl+Esc`nAuthor: https://github.com/kingley82
 
